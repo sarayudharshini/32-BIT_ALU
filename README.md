@@ -1,4 +1,4 @@
-# 32-BIT_ALU Simulation and Synthesis
+## 32-BIT_ALU Simulation and Synthesis
 
 ## Aim:
 Write a Verilog code for a 32-bit ALU supporting four logical and four arithmetic operations. Use case statements in behavioural modelling.
